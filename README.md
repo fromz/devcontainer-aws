@@ -2,7 +2,7 @@
 Add the following to your .devcontainer/devcontainer.json 
 ```json
    "features": {
-        "https://github.com/fromz/devcontainer-kubectl/blob/master/devcontainer-feature-kubectl.tgz?raw=true": {
+        "https://github.com/fromz/devcontainer-aws/blob/master/devcontainer-feature-aws.tgz?raw=true": {
             "version": "latest"
         }
     }
